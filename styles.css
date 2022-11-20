@@ -23,7 +23,7 @@ body{
 
 .output{
     background-color: black;
-    width: 22em;
+    width: inherit;
     height: 3em;
     border: inherit;
     color: white;
